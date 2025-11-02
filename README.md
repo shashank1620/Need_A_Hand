@@ -140,22 +140,6 @@ Need-A-Hand-2.0/
 ├── README.md
 └── LICENSE
 
-🚀 Installation & Setup
-# Clone repository
-git clone https://github.com/your-username/Need-A-Hand-2.0.git
-
-# Navigate into project
-cd Need-A-Hand-2.0
-
-# Install dependencies
-npm install    # for backend
-flutter pub get   # or npm install for frontend
-
-# Run backend server
-npm start
-
-# Run Flutter/React app
-flutter run   # or npm start
 
 💡 Future Enhancements
 
@@ -190,7 +174,4 @@ This project is licensed under the MIT License — feel free to use, modify, and
 
 🔗 Figma Prototype: https://jury-shed-32753804.figma.site
 
-💬 Contact
 
-For queries or collaborations:
-📧 teamtechfists@gmail.com
